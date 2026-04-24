@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-karina-ayala
-Demo web para Consultorio Odontologico Karina Ayala — diseñada por eterlab.
+# Consultorio Odontologico Karina Ayala
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
